@@ -1,0 +1,27 @@
+{
+  "name": "login-and-registration-system-in-react-and-nodejs",
+  "version": "1.0.0",
+  "description": "Login and registration system in react and node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyashyadav0/Login-and-registration-system-in-react-and-nodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreyashyadav0/Login-and-registration-system-in-react-and-nodeJs/issues"
+  },
+  "homepage": "https://github.com/Shreyashyadav0/Login-and-registration-system-in-react-and-nodeJs#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "Express": "^3.0.1",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
